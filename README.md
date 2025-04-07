@@ -1,4 +1,3 @@
-## Built With
 
 My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">chihab.mezrigui</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
