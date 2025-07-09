@@ -13,12 +13,12 @@ import {
   SiDjango,
   SiFlask,
   SiPostgresql,
-  SiPowerbi,
-  SiPyspark,
   SiApachekafka,
   SiApachehadoop,
   SiGooglecloud
 } from "react-icons/si";
+import { DiSpark } from "react-icons/di";
+
 
 function Techstack() {
   return (
@@ -54,10 +54,7 @@ function Techstack() {
         <SiPandas />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPowerbi />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPyspark />
+        <DiSpark />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiApachekafka />
