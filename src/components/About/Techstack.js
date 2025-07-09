@@ -5,13 +5,19 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython } from "react-icons/di";
+  DiPython
+} from "react-icons/di";
 import {
   SiPandas,
   SiStreamlit,
   SiDjango,
   SiFlask,
-  SiPostgresql
+  SiPostgresql,
+  SiPowerbi,
+  SiPyspark,
+  SiApachekafka,
+  SiApachehadoop,
+  SiGooglecloud
 } from "react-icons/si";
 
 function Techstack() {
@@ -46,6 +52,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPandas />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerbi />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPyspark />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApachekafka />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApachehadoop />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGooglecloud />
       </Col>
     </Row>
   );
