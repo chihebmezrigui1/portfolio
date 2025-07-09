@@ -45,13 +45,7 @@ function Home2() {
                   {" "}
                   Docker
                 </b>
-              </i>,
-              orchestrating them with <i>
-                <b className="purple">
-                  {" "}
-                  Kubernetes
-                </b>
-              </i>, and deploying them seamlessly to the cloud.
+              </i>,and deploying them seamlessly to the cloud.
               like
               <i>
                 <b className="purple"> GCP</b>
