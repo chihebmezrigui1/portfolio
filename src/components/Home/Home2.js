@@ -20,7 +20,7 @@ function Home2() {
             <p className="home-about-body">
               Hello and welcome!
               I'm a <i>
-                <b className="purple">Data Scientist,</b>
+                <b className="purple">Data Engineer,</b>
               </i>  combining the power of data with solid development skills to build smart, scalable, and impactful solutions.
               Curious by nature and driven by innovation, I love turning ideas into real, functional products.
               <br />
@@ -35,7 +35,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Data Science.
+                  Data Engineering.
                 </b>
               </i>
               <br />
@@ -54,7 +54,7 @@ function Home2() {
               </i>, and deploying them seamlessly to the cloud.
               like
               <i>
-                <b className="purple"> Azure</b>
+                <b className="purple"> GCP</b>
               </i>
             </p>
           </Col>
