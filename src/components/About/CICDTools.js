@@ -23,9 +23,6 @@ function CICDTools() {
       <Col xs={4} md={2} className="tech-icons">
         <SiDocker />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiKubernetes />
-      </Col>
     </Row>
   );
 }
