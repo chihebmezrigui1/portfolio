@@ -7,6 +7,7 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import CICDTools from "./CICDTools";
+import ExperienceCard from "./ExperienceCard";
 
 function About() {
   return (
@@ -33,6 +34,22 @@ function About() {
             className="about-img"
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
+          </Col>
+        </Row>
+        {/* Section des expériences professionnelles */}
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col
+            md={12}
+            style={{
+              justifyContent: "center",
+              paddingTop: "30px",
+              paddingBottom: "50px",
+            }}
+          >
+            <h1 className="project-heading">
+              Professional <strong className="purple">Experience</strong>
+            </h1>
+            <ExperienceCard />
           </Col>
         </Row>
         <h1 className="project-heading">
