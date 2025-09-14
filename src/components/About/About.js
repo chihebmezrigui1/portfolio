@@ -37,7 +37,7 @@ function About() {
           </Col>
         </Row>
         {/* Section des expériences professionnelles */}
-        <Row style={{ justifyContent: "center", padding: "10px" }}>
+       {/* <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             md={12}
             style={{
@@ -51,7 +51,7 @@ function About() {
             </h1>
             <ExperienceCard />
           </Col>
-        </Row>
+        </Row>*/}
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
