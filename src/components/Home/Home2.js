@@ -26,7 +26,7 @@ function Home2() {
               <br />
               <br />I'm also a Fullstack Developer with a strong focus on
               <i>
-                <b className="purple"> Javascript and Python. </b>
+                <b className="purple"> Javascript , TypeScript and Python. </b>
               </i>
               <br />
               <br />
